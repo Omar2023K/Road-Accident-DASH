@@ -8,7 +8,7 @@ This interactive dashboard provides insights into road accidents and casualties 
 
 ---
 
-## 🚦 Dashboard Preview
+## 🚦 UK Accident Dashboard
 ![UK Accident Dashboard](PIC.png)
 
 ---

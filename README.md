@@ -54,4 +54,3 @@ This interactive dashboard provides insights into road accidents and casualties 
 
 ---
 
-## 📁 Project Structure

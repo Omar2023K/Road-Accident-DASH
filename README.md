@@ -6,6 +6,13 @@ This interactive dashboard provides insights into road accidents and casualties 
 ---
 ## Dataset: https://www.kaggle.com/datasets/saurabhshahane/road-traffic-accidents
 
+---
+
+## 🚦 Dashboard Preview
+![UK Accident Dashboard](PIC.png)
+
+---
+
 ## 📈 Key Metrics (2021–2022)
 | Metric | Value | Change vs Previous Year (PY) |
 |--------|-------|-----------------------------|
